@@ -8,4 +8,4 @@ A simple script to download years worth of Locational Marginal Price (LMP) data 
 - Pull csv file from your directory
 
 # Example
-In the script provided I'm pulling data for TH_SP15_GEN-APND from 2021 to 2023, this includes LMP, MCE, MCC, and MCL components which we'll be using in a Neural Net forecast soon.
+In the script provided I'm pulling data for TH_SP15_GEN-APND from 2021 to 2023, this includes LMP, MCE, MCC, and MCL components which we'll be using in a Neural Net forecast.  See attached data as reference output.
